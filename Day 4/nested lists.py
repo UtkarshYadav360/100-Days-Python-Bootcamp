@@ -1,0 +1,60 @@
+states_of_america = [
+    "Delaware",
+    "Pennsylvania",
+    "New Jersy",
+    "Georgia",
+    "Connecticut",
+    "Massachusetts",
+    "Maryland",
+    "South Carolina",
+    "New Hampshire",
+    "Virginia",
+    "New York",
+    "North Carolina",
+    "Rhode Island",
+    "Vermot",
+    "Kentucky",
+    "Tennessee",
+    "Ohio",
+    "Louisiana",
+    "Indiana",
+    "Mississippi",
+    "Illinois",
+    "Alabama",
+    "Maine",
+    "Missouri",
+    "Arkansas",
+    "Michigan",
+    "Florida",
+    "TExas",
+    "Iowa",
+    "Wisconsin",
+    "California",
+    "Minnesota",
+    "Oregon",
+    "Kansas",
+    "West Virginia",
+    "Neveda",
+    "Nebraska",
+    "Colorado",
+    "North Dakota",
+    "South Dakota",
+    "Montana",
+    "Washington",
+    "Idaho",
+    "Wyoming",
+    "Oklahomo",
+    "New Mexico",
+    "Arizona",
+    "Alaska",
+    "Hawaii",
+]
+# getting the number of items in the list :
+print(len(states_of_america))
+
+# making nested lists :
+fruits = ["Strawberries", "Nectarines", "Apples", "Peaches", "Cheeries", "Pears"]
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+
+dirty_dozen = [fruits, vegetables]
+print(dirty_dozen)
