@@ -1,0 +1,2 @@
+Previous text is deleted and new text is added to the file.New text is appended to the file in the same line.
+New text is appended to the file in the new line.
