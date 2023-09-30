@@ -1,5 +1,7 @@
 import tkinter
 
+# PROJECT 27 :
+# MILES TO KILOMETER CONVERTER
 
 # function to be triggered when button clicked
 def calculate():
