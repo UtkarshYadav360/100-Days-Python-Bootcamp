@@ -147,6 +147,7 @@ def save():
             with open("data.json", mode="w") as data_file:
                 # saving updated data
                 json.dump(data, data_file, indent=4)
+                messagebox.showinfo(title="Password Saved", message="Your Password Is Saved.")
         finally:
             website_entry.delete(0, END)
             password_entry.delete(0, END)
